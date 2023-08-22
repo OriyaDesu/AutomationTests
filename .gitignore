@@ -1,0 +1,21 @@
+*.iml
+jdi-dark/.idea/
+target/
+*.zip
+*.exe
+.logs/
+*.xlsx
+allure-results/
+allure-report/
+.allure/
+*.csv
+.idea
+
+# Project exclude paths
+/.gradle/
+/build/
+/core/build/
+/restapi/build/
+/webui/build/
+/webui/build/classes/java/main/
+/webui/build/classes/java/test/

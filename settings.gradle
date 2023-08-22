@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        mavenCentral()
+        gradlePluginPortal()
+    }
+
+}
+
+rootProject.name = 'homies'
+include 'webui'
+include 'restapi'
+include 'core'
